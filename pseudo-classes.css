@@ -1,0 +1,14 @@
+li {
+	display: inline;
+	text-decoration: none;
+}
+
+span {
+	display: block;
+	border: 1px solid black;
+	margin: 25px;
+}
+
+article:nth-child(even) {
+	border: 1px solid hotpink;
+}
